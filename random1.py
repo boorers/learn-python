@@ -2,7 +2,7 @@ import random
 
 #print(random.randint(1,35))
 i = 0
-if i < 5 then:
+for i < 5 :
 	print (random.randint (1,35))
 	i += 1
 #t = random.randint(1,35)
